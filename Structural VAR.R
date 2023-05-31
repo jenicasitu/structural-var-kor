@@ -1,6 +1,3 @@
-# Econ 112 WA 2
-# Korea
-
 setwd("")
 library(tseries)
 library(vars)
